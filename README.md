@@ -24,4 +24,13 @@ Here are some results from my snake generations.
 ### Generation 50
 This generation was totally random yet learnt a lot of things.
 
-<video src='https://github.com/Gruhit13/genetic-algorithm/blob/main/videos/generation_100.mp4' width=180/>
+
+
+
+
+
+https://github.com/Gruhit13/genetic-algorithm/blob/main/videos/generation_100.mp4
+
+
+
+<video src="https://github.com/Gruhit13/genetic-algorithm/blob/main/videos/generation_100.mp4" width=180/>
