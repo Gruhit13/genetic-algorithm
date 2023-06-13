@@ -27,10 +27,32 @@ This generation was totally random yet learnt a lot of things.
 
 
 
-
-
-https://github.com/Gruhit13/genetic-algorithm/blob/main/videos/generation_100.mp4
+https://github.com/Gruhit13/genetic-algorithm/assets/64111603/f47b07cd-5ef4-479b-837a-8c090b48b813
 
 
 
-<video src="https://github.com/Gruhit13/genetic-algorithm/blob/main/videos/generation_100.mp4" width=180/>
+### Generation 200
+Till now snakes were able to understand that the best way to survive longer is by eating more apple as they would get more frame
+to work on when they eat more apply.
+
+
+
+
+https://github.com/Gruhit13/genetic-algorithm/assets/64111603/85fc1b87-db4e-418b-a8b9-3f6b57f05092
+
+### Generation 350
+By the 300th generation, snakes had figured out what can be the best way to eat apples and its really interesting to watch how they do so
+
+
+
+https://github.com/Gruhit13/genetic-algorithm/assets/64111603/b2ccddeb-2b77-475d-83a1-7f669730da49
+
+
+### Valuable Insights
+After 350 generations snakes had learned many things
+- not to strike the wall.
+- not to keep moving in the same direction unusually.
+- not to strike in their own body even if the food is generated there.
+- keep eating more apples in order to survive more.
+- an optimal way of eating way in a way that their body stays on the edge of the wall so they
+  get more area to more freely.
